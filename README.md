@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Camila Ramirez 👋
 
-<!--
-**cramirez-sec/cramirez-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Aspirant | CS & Software Engineering Student
+I am an Information Systems Engineering & Computer Science student transitioning into Cybersecurity. My goal is to combine a strong academic foundation with practical hands-on skills for entry-level roles (SOC Analyst L1 / Junior Security Analyst).
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **B.S. in Information Systems Engineering** *(In Progress)*
+- **B.S. in Computer Science (Licenciatura en Computación)** *(In Progress)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- 📖 **Hands-on Learning:** Pre-Security & Complete Beginner paths on TryHackMe.
+- 🐧 **Environment:** Linux (Fedora), OpenVPN, VirtualBox, Git/GitHub workflow.
+- 📝 **Knowledge Base:** Documenting daily study notes and lab resolutions in my [tryhackme-notes](https://github.com/cramirez-sec/tryhackme-notes) repository.
+
+### 📬 Contact
+- **Email:** cramirez.sec@proton.me
