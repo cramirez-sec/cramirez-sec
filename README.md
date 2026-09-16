@@ -4,7 +4,7 @@
 I am an Information Systems Engineering & Computer Science student transitioning into Cybersecurity. My goal is to combine a strong academic foundation with practical hands-on skills for entry-level roles (SOC Analyst L1 / Junior Security Analyst).
 
 ### 🎓 Education
-- **B.S. in Information Systems Engineering** *(In Progress)*
+- **B.S. in Information Systems Engineering (Ingeniería en Sistemas de Información)** *(In Progress)*
 - **B.S. in Computer Science (Licenciatura en Computación)** *(In Progress)*
 
 ### 🎯 Current Focus
